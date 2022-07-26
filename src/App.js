@@ -10,7 +10,7 @@ function App() {
   }, []);
   return (
     <div className="container">
-    <div className="title"><h1>Todo List</h1></div>
+    <div className="title"><h1>To-do List</h1></div>
     <div className="new-item">
     <input placeholder="Tarefa" value={novoItem} onChange={value => setNovoItem(value.target.value)} type="text"/>
     <button onClick={() => {
