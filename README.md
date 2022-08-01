@@ -4,4 +4,4 @@ Criando Todo List com React
 
 Projeto em desenvolvimento para o curso de Front-End da Estardando DEVs.
 
-Por Danilo de Sousa - 1A
+Por Danilo de Sousa
